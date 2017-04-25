@@ -156,12 +156,12 @@
               <div class="logo">
                   <a href="../index.php"><img src="../images/logo.png" alt="" /></a>
               </div>
-              <div class="header_top_right">
-                <div class="cart">
-                    <a href="#" onclick="emptyTheCart('<?php echo $user_name?>')"><p><span>Check out</span></p></a>
+              <div class="header_top_right" style="padding-right: 10px">
+                <div class="cart" style="padding-right: 10px">
+                    <a   href="#" onclick="emptyTheCart('<?php echo $user_name?>')"><p><span>Buy</span></p></a>
                 </div>
-                <div class="cart">
-                  <a href="#" onclick="emptyTheCart('<?php echo $user_name?>')"><p><span>Empty Cart</span></p></a>
+                <div class="cart" style="padding-right: 10px; margin">
+                  <a  href="#"  onclick="emptyTheCart('<?php echo $user_name?>')"><p><span>Empty Cart</span></p></a>
                 </div>
                 <div class="clear"></div>
               </div>
