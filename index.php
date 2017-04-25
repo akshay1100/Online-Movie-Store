@@ -17,6 +17,7 @@ session_start();
 	<script type="text/javascript" src="js/easing.js"></script>
 	<script type="text/javascript" src="js/jquery.nivo.slider.js"></script>
 	<script type="text/javascript" src="js/index.js"></script>
+    <script type="text/javascript" src="js/main.js"></script>
 
 
 	<script type="text/javascript">
